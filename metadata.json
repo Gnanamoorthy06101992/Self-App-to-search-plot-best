@@ -1,0 +1,5 @@
+{
+  "name": "PlotScout AI",
+  "description": "Real estate investment analyzer that geocodes properties, visualizes them on an interactive map, and generates AI-driven investment comparisons.",
+  "requestFramePermissions": []
+}
